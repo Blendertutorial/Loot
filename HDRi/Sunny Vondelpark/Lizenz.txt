@@ -1,0 +1,14 @@
+CC0 License
+
+Some free HDRIs on this site are licensed under the CC0 license, which is essentially public domain.
+
+This is basicaly the most liberal license there is, meaning that you're welcome to:
+
+    - Use them for any purpose,
+    - Modify them in any way,
+    - Redistribute them anywhere...
+
+... and you don't even have to give credit or mention the original author.
+
+
+Author: Greg Zaal
